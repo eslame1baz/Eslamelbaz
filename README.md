@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Eslam Elbaz Elsayed</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        .container {
+            background-color: white;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            color: #555;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .contact-info, .skills, .experience, .education {
+            background-color: #f9f9f9;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Eslam Elbaz Elsayed</h1>
+        
+        <div class="section contact-info">
+            <h2>Contact Info</h2>
+            <p>Phone: +201005462792</p>
+            <p>Email: eslam.elbaz199@gmail.com</p>
+        </div>
+        
+        <div class="section languages">
+            <h2>Languages</h2>
+            <ul>
+                <li>Arabic: Native</li>
+                <li>English: Good</li>
+            </ul>
+        </div>
+        
+        <div class="section technical-skills">
+            <h2>Technical Skills</h2>
+            <ul>
+                <li>Automation (Go High Level - Manychat)</li>
+                <li>Create marketing strategy and plan</li>
+                <li>Create buyer persona</li>
+                <li>Build a sales funnel</li>
+                <li>Tracking (GTM, GA4, Yandex, Salla, Zed, WordPress)</li>
+                <li>Launch and optimize campaigns (Meta, Snapchat, TikTok, Google Ads)</li>
+                <li>Analyze campaigns</li>
+                <li>Testing and scaling strategies</li>
+            </ul>
+        </div>
+        
+        <div class="section experience">
+            <h2>Experience</h2>
+            <ul>
+                <li><strong>Araby Brand (Jul 2024 - Present)</strong> - Performance Media Buyer</li>
+                <li><strong>Freelance Digital Marketer & Performance Media Buyer (Feb 2022 - Present)</strong></li>
+                <li><strong>Azrak (May 2023 - Jan 2024)</strong> - Digital Marketer & Performance Media Buyer</li>
+                <li><strong>Ahmed Alshamari Co. For Rent Car, Riyadh, KSA (Aug 2016 - Apr 2021)</strong> - Rent Manager</li>
+                <li><strong>ICI Training Center (Mar 2014 - May 2015)</strong> - Marketing</li>
+            </ul>
+        </div>
+        
+        <div class="section education">
+            <h2>Education</h2>
+            <p><strong>B.Sc. Management Information System (MIS)</strong></p>
+            <p>Nile Nile Academy for Sciences and Computer Technology (Sep 2011 - May 2015)</p>
+        </div>
+        
+        <div class="section courses">
+            <h2>Additional Courses & Certificates</h2>
+            <ul>
+                <li>Media Buyer Mind Shift Course</li>
+                <li>Easyt Media Buying Course (Facebook, Instagram, Twitter, Snapchat, YouTube, Google Ads)</li>
+                <li>Marketing and Social Media Marketing at AUC (American University in Cairo) by Reach Out Academy</li>
+                <li>Google Ads Display Certification from Skillshop</li>
+                <li>School of Marketing Advanced Internship in Marketing</li>
+                <li>Azrak Internship in Media Buying</li>
+                <li>Mindev Internship in Media Buying</li>
+                <li>Workshop: Digital Information Security and Protection (AUC)</li>
+            </ul>
+        </div>
+        
+        <div class="section soft-skills">
+            <h2>Soft Skills</h2>
+            <ul>
+                <li>Communication and Presentation</li>
+                <li>Decision Maker and Team Worker</li>
+                <li>Problem-Solver and Challenging Person</li>
+                <li>Planning and Organization</li>
+                <li>Excellent in Advertising Persuasion</li>
+                <li>Project Management</li>
+                <li>Self-Study Person</li>
+                <li>Ability to Learn New Skills and Courses</li>
+                <li>Ability to Multitask, Prioritize and Successfully Meet Several Deadlines</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
